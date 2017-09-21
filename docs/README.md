@@ -3,7 +3,7 @@ AWS SDK for PHP
 
 Documentation for the [AWS SDK for PHP](https://github.com/aws/aws-sdk-php).
 
-Building the documentation
+Building the documentation here
 --------------------------
 
 The documentation is written in [reStructuredText](http://docutils.sourceforge.net/rst.html)
